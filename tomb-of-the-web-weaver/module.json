@@ -1,0 +1,16 @@
+{
+  "name": "tomb-of-the-web-weaver",
+  "title": "Tomb of the Web Weaver",
+  "author": "Seafootgames",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "name": "tomb-of-the-web-weaver",
+      "label": "Tomb of the Web Weaver",
+      "path": "packs/tomb-of-the-web-weaver.db",
+      "type": "Scene"
+    }
+  ]
+}
